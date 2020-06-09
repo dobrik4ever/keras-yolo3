@@ -2,9 +2,11 @@
 *.png
 *.weights
 *.h5
+*.cfg
 logs/
 *_test.py
-
+__pycache__
+.vscode
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
