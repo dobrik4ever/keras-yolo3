@@ -10,9 +10,13 @@ A Keras implementation of YOLOv3 (Tensorflow backend) forked from https://github
 
 ## Quick Start
 
-1. Create a new environment with python=3.5.2
+1. Create a new environment with python=3.5.2:
 ```
 conda create -n yolo python=3.5.2
+```
+2. Inside a repo run:
+```
+python install_everything.py
 ```
 
 ### Usage
